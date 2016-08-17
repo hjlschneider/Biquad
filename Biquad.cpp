@@ -23,7 +23,7 @@
   Adapted from the mbed library: https://developer.mbed.org/users/tomlankhorst/code/biquadFilter/
   Original code written by Tom Lankhorst
   
-  This code is written for Arduino
+  This code is designed for Arduino
 */  
   
 
