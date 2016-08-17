@@ -23,9 +23,7 @@
   Adapted from the mbed library: https://developer.mbed.org/users/tomlankhorst/code/biquadFilter/
   Original code written by Tom Lankhorst
   
-  Biquad.h - Library for applying biquad filters
-  Created by H.J.L. Schneider, July 8, 2016
-  Designed for Arduino
+  This code is designed for Arduino
 */
 
 #ifndef BIQUAD_H
