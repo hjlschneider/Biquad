@@ -1,5 +1,5 @@
 /*
-  AS5147P device library code is place under the MIT License
+  Biquad library code is place under the MIT License
   Copyright (c) 2016 H.J.L. Schneider
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -18,7 +18,12 @@
   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-  SOFTWARE.  
+  SOFTWARE.
+  
+  Adapted from the mbed library: https://developer.mbed.org/users/tomlankhorst/code/biquadFilter/
+  Original code written by Tom Lankhorst
+  
+  This code is designed for Arduino 
 
   This code shows how to implement a filter made with ASN filter designer. 
   By using this filter it is important to measure the output of a function 
